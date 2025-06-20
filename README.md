@@ -7,4 +7,5 @@ Users can follow the following guidelines for reproducing the models -
 2. All the Python codes or models can be run in Jupyter notebook.
 3. A folder can be prepared with these model codes and datasets - 'dataset_main.xlsx', which is the primary dataset of 756 smiles and targets
 4. Separately, two external sets 'Phytos-results.xlsx' and 'cancer-fda.xlsx' are used for external validation.
-5. Each Python file like  
+5. Each Python file like 'GAT.ipynb' incorporates all the fucntions right from model training and testing, external validations and interpretations.
+6. On running each file, all the results will be saved in separate folders (which can be renamed by users) 
